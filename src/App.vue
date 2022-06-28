@@ -4,7 +4,7 @@
     src="./assets/logo.png"
   >
 
-  <HelloWorld msg="epicsmash hello world" />
+  <HelloWorld msg="epicsmash hello world 2" />
 </template>
 
 <script>
