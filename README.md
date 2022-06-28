@@ -1,4 +1,4 @@
-# epicsmash-hello
+# epicsmash
 
 ## Project setup
 ```
